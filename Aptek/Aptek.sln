@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AptekMenage", "AptekMenage\AptekMenage.csproj", "{3F04D637-3988-41EB-AA74-8EF4B6F631DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{F26664F2-2DA1-4C49-947A-898504BB5BE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcces", "DataAcces\DataAcces.csproj", "{0CA9C584-D3EF-4281-BE69-A78CC6961AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F04D637-3988-41EB-AA74-8EF4B6F631DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F04D637-3988-41EB-AA74-8EF4B6F631DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F04D637-3988-41EB-AA74-8EF4B6F631DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F04D637-3988-41EB-AA74-8EF4B6F631DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F26664F2-2DA1-4C49-947A-898504BB5BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26664F2-2DA1-4C49-947A-898504BB5BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26664F2-2DA1-4C49-947A-898504BB5BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26664F2-2DA1-4C49-947A-898504BB5BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA9C584-D3EF-4281-BE69-A78CC6961AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA9C584-D3EF-4281-BE69-A78CC6961AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA9C584-D3EF-4281-BE69-A78CC6961AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA9C584-D3EF-4281-BE69-A78CC6961AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EFE8045-7606-44BB-9D54-23AF71D1AA3A}
+	EndGlobalSection
+EndGlobal
